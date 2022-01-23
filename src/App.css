@@ -1,0 +1,14 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'OpenSans', sans-serif;
+    font-family: 'Monoton';
+}
+body{
+    background: #c6d9f5;
+}
+.flexRow{
+    display: flex;
+}
+.sb{
+    justify-content: space-between;
+}
